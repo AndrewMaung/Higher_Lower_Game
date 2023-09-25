@@ -1,4 +1,3 @@
-import random
 data = [
     {
         'name': 'Instagram',
@@ -302,8 +301,4 @@ data = [
     }
 ]
 
-def get_random_data(data):
-    print(random.choice(data))
-    
-get_random_data
     
